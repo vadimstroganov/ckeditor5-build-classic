@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "version": "16.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "name": "ckeditor5-build-stroganov",
+  "version": "16.0.1",
+  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor. (custom build)",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -69,7 +69,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/vadimstroganov/ckeditor5-build-classic"
   },
   "scripts": {
     "build": "webpack --mode production",
